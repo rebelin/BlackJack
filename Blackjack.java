@@ -7,7 +7,7 @@
 */
 
 import java.util.Scanner;
-public class RebeccaLinBlackjack
+public class Blackjack
 {
   // Global arrays
   static int [] seen = new int [21];
